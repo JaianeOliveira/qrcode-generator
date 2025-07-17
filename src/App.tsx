@@ -1,7 +1,7 @@
 import QRCodeStyling, {
 	type CornerDotType,
 	type CornerSquareType,
-	DotType,
+	type DotType,
 } from "qr-code-styling";
 import { type FormEvent, useEffect, useRef } from "react";
 
